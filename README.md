@@ -11,7 +11,7 @@ Para praticar, acrescentei um DARK MODE.
 | :sparkles: Nome        | **Mochila de Viagem - HTML, CSS e JAVASCRIPT**
 | :label: Tecnologias | HTML, CSS, JAVASCRIPT
 | :rocket: URL         | https://adrianeboucinha.github.io/mochila-de-viagem-alura/
-| :fire: Desafio     | https://7daysofcode.io/matricula/html-css-linkedin
+| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![https://adrianeboucinha.github.io/mochila-de-viagem-alura/#vitrinedev](https://adrianeboucinha.github.io/mochila-de-viagem-alura/#vitrinedev)
